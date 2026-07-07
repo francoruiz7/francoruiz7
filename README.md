@@ -20,7 +20,7 @@ Over 10 years of experience in data analysis and BI within the banking sector, c
 - [Coaching Website](https://github.com/francoruiz7/coaching-website) — Personal coaching website built with WordPress
 
 ## 🤖 AI / Machine Learning
-*(coming soon)*
+- [AI Projects](https://github.com/francoruiz7/ai-projects) — Applied AI and LLM projects, including data extraction pipelines and API integrations
 
 ---
 📫 [LinkedIn](https://linkedin.com/in/francoruiz)
