@@ -1,7 +1,7 @@
 # Franco Ruiz
 **Data & AI Analyst | SQL · Python · Power BI · Applied AI**
 
-Over 10+ years of experience in data analysis and BI within the banking sector, 
+Over 13+ years of experience in data analysis and BI within the banking sector, 
 now focused on international remote Data/BI/AI roles.
 
 ## 📊 Featured Projects
