@@ -9,7 +9,7 @@ now focused on international remote Data/BI/AI roles.
 - [Cashflow Dashboard](https://github.com/francoruiz7/powerbi-cashflow-dashboard) — Personal finance dashboard tracking monthly cash flow, expenses and savings
 - [Procurement Dashboard](https://github.com/francoruiz7/powerbi-licitaciones-dashboard) — Procurement and bidding dashboard for tender/vendor process tracking
 - [AI Projects](https://github.com/francoruiz7/ai-projects) — Applied AI and LLM projects, including data extraction pipelines and API integrations
-- [Invoice FX & AI Classification Pipeline](https://github.com/francoruiz7/fx-invoice-ai-pipeline) — Automated pipeline converting invoice amounts via real-time FX rates and classifying expenses by type using an LLM (Groq)
+- [International Purchase Orders — Risk & Priority AI Pipeline](https://github.com/francoruiz7/international-orders-ai-pipeline) — Automated pipeline converting international purchase orders to ARS via real-time FX rates, prioritizing by value and assessing risk per order using an LLM based on country and product category
 
 ## 🔒 Cybersecurity
 - [Security Writeups](https://github.com/francoruiz7/security-writeups)
