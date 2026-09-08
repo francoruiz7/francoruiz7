@@ -6,6 +6,7 @@ now focused on international remote Data/BI/AI roles.
 
 ## 📊 Featured Projects
 
+- [AI Course Generator](https://github.com/francoruiz7/curso-generator-ia) — Full-stack app that generates structured courses on any topic using an LLM, with step-by-step navigation, progress tracking, and validated JSON output
 - [Cashflow Dashboard](https://github.com/francoruiz7/powerbi-cashflow-dashboard) — Personal finance dashboard tracking monthly cash flow, expenses and savings
 - [Procurement Dashboard](https://github.com/francoruiz7/powerbi-licitaciones-dashboard) — Procurement and bidding dashboard for tender/vendor process tracking
 - [AI Projects](https://github.com/francoruiz7/ai-projects) — Applied AI and LLM projects, including data extraction pipelines and API integrations
