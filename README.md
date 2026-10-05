@@ -18,6 +18,7 @@ now focused on international remote Data/BI/AI roles.
 
 ## 🌐 Other
 - [Coaching Website](https://github.com/francoruiz7/coaching-website)
+- [Argenoticias News Website](https://github.com/francoruiz7/argenoticias-theme)
 
 ---
 📫 [LinkedIn](https://linkedin.com/in/francoruiz)
