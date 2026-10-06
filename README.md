@@ -17,7 +17,7 @@ now focused on international remote Data/BI/AI roles.
 - [Security Writeups](https://github.com/francoruiz7/security-writeups)
 
 ## 🌐 Other
-- [Coaching Website](https://github.com/francoruiz7/coaching-website)
+- [Coaching Website](https://github.com/francoruiz7/francoruiz-web)
 - [Argenoticias News Website](https://github.com/francoruiz7/argenoticias-theme)
 
 ---
