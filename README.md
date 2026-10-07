@@ -6,6 +6,7 @@ now focused on international remote Data/BI/AI roles.
 
 ## 📊 Featured Projects
 
+- [La Birome](https://github.com/francoruiz7/labirome) — Fully automated news site: an LLM pipeline that writes multi-source articles, fact-checks them against their sources and publishes on a schedule with GitHub Actions
 - [AI Course Generator](https://github.com/francoruiz7/curso-generator-ia) — Full-stack app that generates structured courses on any topic using an LLM, with step-by-step navigation, progress tracking, and validated JSON output
 - [PsicoChat](https://github.com/francoruiz7/psicochat) — Conversational web app using the OpenAI API as a therapeutic support space, with persistent memory across sessions, risk detection with help resources, and streamed responses
 - [Cashflow Dashboard](https://github.com/francoruiz7/powerbi-cashflow-dashboard) — Personal finance dashboard tracking monthly cash flow, expenses and savings
